@@ -1,4 +1,5 @@
 {
+  "posts": {
     "type": "quickReplies",
     "content": {
       "title": "countries",
@@ -8,8 +9,13 @@
           "value": "India"
         }
       ]
-    },
-	"profile": {
-    "name": "mohanamit"
-	}
+    }
+  },
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
   }
+}
