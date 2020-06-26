@@ -1,20 +1,12 @@
 {
   "posts": {
-    "type": "quickReplies",
-    "content": {
-      "title": "countries",
-      "buttons": [
-        {
-          "title": "India",
-          "value": "India"
-        },
-        {
-          "title": "USA",
-          "value": "USA"
-        }
-      ]
+  "replies": [
+    {
+      "type": "text",
+      "content": "Hello world!"
     }
-  },
+  ]
+},
   "profile": {
     "name": "typicode"
   }
