@@ -1,5 +1,5 @@
 {
-  "posts": [{
+  "posts": {
     "type": "quickReplies",
     "content": {
       "title": "countries",
@@ -10,7 +10,7 @@
         }
       ]
     }
-  }],
+  },
   "profile": {
     "name": "typicode"
   }
