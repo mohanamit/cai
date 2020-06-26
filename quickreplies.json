@@ -1,0 +1,13 @@
+{
+    "type": "quickReplies",
+    "content": {
+      "title": "countries",
+      "buttons": [
+        {
+          "title": "India",
+          "value": "India"
+        }
+      ]
+    }
+  }
+  
